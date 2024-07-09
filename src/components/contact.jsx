@@ -3,7 +3,7 @@ export default function Contact() {
         <div class="grow max-w-[600px] w-full mx-auto justify-center items-center dark:bg-slate-800">
             <form class="flex flex-col">
                 <div class="w-full mx-auto text-center mt-4">
-                    <h1 class=" text-4xl font-bold mb-4 shadow-inner shadow-orange-300 dark:shadow-slate-600 rounded-lg text-green-900 dark:text-slate-400 py-2 px-10">
+                    <h1 class="text-4xl font-bold mb-4 shadow-inner shadow-orange-300 dark:shadow-slate-600 rounded-lg text-green-900 dark:text-slate-400 py-2 px-10">
                         Contact
                     </h1>
                 </div>
